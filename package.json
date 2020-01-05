@@ -1,0 +1,24 @@
+{
+  "name": "express-api",
+  "version": "0.0.1",
+  "description": "Sample RESTful API in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phongnt/backend-api-typescript.git"
+  },
+  "author": "Edison Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phongnt/backend-api-typescript/issues"
+  },
+  "homepage": "https://github.com/phongnt/backend-api-typescript#readme",
+  "devDependencies": {
+    "concurrently": "^5.0.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
